@@ -1,0 +1,13 @@
+Debug/
+Release/
+*.o
+*.d
+*.su
+*.elf
+*.map
+*.list
+*.bin
+*.hex
+.metadata/
+RemoteSystemsTempFiles/
+Thumbs.db
